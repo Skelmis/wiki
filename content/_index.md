@@ -5,3 +5,6 @@ title = ''
 ## Hi, you've found my weird and wonderful wiki.
 
 I like to store my various thoughts and gatherings here that may be useful once more in the future.
+
+Available pages in this wiki:
+{{< toc-tree >}}
