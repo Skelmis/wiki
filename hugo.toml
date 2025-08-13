@@ -26,9 +26,6 @@ enableRobotsTXT = true
     startLevel = 1
     endLevel = 9
 
-[taxonomies]
-   tag = "tags"
-
 [params]
   geekdocRepo = "https://github.com/skelmis/wiki"
   geekdocNextPrev = true
@@ -36,6 +33,7 @@ enableRobotsTXT = true
   geekdocPageLastmod = true
   geekdocToC = 2
   geekdocPrivacyPolicy = "#"
+  geekdocTagsToMenu = true
 
 
 
