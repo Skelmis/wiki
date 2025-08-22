@@ -30,6 +30,7 @@ Features such as:
 Uses:
 - Markdown & Jinja2
 - Layout is defined as Markdown file
+- Call directly to the word docx library from markdown when needed
 
 Generates:
 - Markdown
